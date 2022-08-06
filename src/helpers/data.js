@@ -314,11 +314,11 @@ const data = [
     },
     {
         id:9,
-        name:"Navbar",
-        image:"hamburgerMenu",
-        url:"https://mehmetcakir1.github.io/Nav-bar/",
-        source:"https://github.com/MehmetCakir1/Nav-bar",
-        tool:"javascript"
+        name:"Shopping Box",
+        image:"shopping box.jpg",
+        url:"https://ozcan-cetin.github.io/Shopping-Box/",
+        source:"https://github.com/ozcan-cetin/Shopping-Box",
+        tool:"css"
     },
     {
         id:8,
