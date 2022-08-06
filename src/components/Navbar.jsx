@@ -11,8 +11,9 @@ const Navbar = () => {
       <nav className="d-flex justify-content-between align-items-center p-3 flex-column flex-md-row">
         <div className="logo text-light d-flex justify-content-between align-items-center">
           <Link to="/">
-            <div className="lodoDiv">
-              <img className="logo-img" src="images/logo.png" alt="logo" />
+            <div className="lodoDiv text-decoration-none">
+              {/* <img className="logo-img" src="images/logo.jpg" alt="logo" /> */}
+              <h5 className="btn btn-outline-primary">Özcan Çetin</h5>
             </div>
           </Link>
           <button

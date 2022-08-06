@@ -330,59 +330,59 @@ const data = [
     },
     {
         id:7,
-        name:"Basic Form",
-        image:"basicForm",
-        url:"https://mehmetcakir1.github.io/Basic_form_2/",
-        source:"https://github.com/MehmetCakir1/Basic_form_2",
+        name:"Three-Card",
+        image:"three card.jpg",
+        url:"https://ozcan-cetin.github.io/3-column-preview-card-component-main/",
+        source:"https://github.com/ozcan-cetin/3-column-preview-card-component-main",
         tool:"css"
     },
     {
         id:6,
-        name:"Rolling Eggs",
-        image:"rollingEggs",
-        url:"https://mehmetcakir1.github.io/Rolling_eggs/",
-        source:"https://github.com/MehmetCakir1/Rolling_eggs",
+        name:"Four-Card",
+        image:"fourcard.jpg",
+        url:"https://ozcan-cetin.github.io/four-card-feature-section-master/",
+        source:"https://github.com/ozcan-cetin/four-card-feature-section-master",
         tool:"css"
     },
     {
         id:5,
-        name:"Basic Clock",
-        image:"basicClock",
-        url:"https://mehmetcakir1.github.io/Basic-Clock/",
-        source:"https://github.com/MehmetCakir1/Basic-Clock",
+        name:"Netflix",
+        image:"netflix.jpg",
+        url:"https://ozcan-cetin.github.io/NETFLIX/",
+        source:"https://github.com/ozcan-cetin/NETFLIX",
         tool:"css"
     },
     {
         id:4,
-        name:"Contact Form",
-        image:"basicContactForm",
-        url:"https://mehmetcakir1.github.io/Basic-Form/",
-        source:"https://github.com/MehmetCakir1/Basic-Form",
+        name:"Voltran",
+        image:"voltran.gif",
+        url:"https://ozcan-cetin.github.io/voltran/",
+        source:"https://github.com/ozcan-cetin/voltran",
         tool:"css"
     },
     {
         id:3,
-        name:"Chessboard",
-        image:"Chessboard",
-        url:"https://mehmetcakir1.github.io/Chessboard/",
-        source:"https://github.com/MehmetCakir1/Chessboard",
+        name:"Contact Form",
+        image:"Contact Form.jpg",
+        url:"https://ozcan-cetin.github.io/Form-Exercise/",
+        source:"https://github.com/ozcan-cetin/Form-Exercise",
         tool:"css"
     },
     {
         id:2,
-        name:"Falling Boxes",
-        image:"fallingBoxes",
-        url:"https://mehmetcakir1.github.io/Falling_Box/",
-        source:"https://github.com/MehmetCakir1/Falling_Box",
+        name:"Clock",
+        image:"clock.jpg",
+        url:"https://ozcan-cetin.github.io/clock/",
+        source:"https://github.com/ozcan-cetin/clock",
         tool:"css"
     },
     {
         id:1,
-        name:"JS-Algorithms",
-        image:"jsalgorithms",
-        url:"https://github.com/MehmetCakir1/javascriptAlgorithms",
-        source:"https://github.com/MehmetCakir1/javascriptAlgorithms",
-        tool:"javascript"
+        name:"Nintendo",
+        image:"nintendo.jpg",
+        url:"https://github.com/ozcan-cetin/Nintendo",
+        source:"https://github.com/ozcan-cetin/Nintendo",
+        tool:"css"
     },
     ]
     
