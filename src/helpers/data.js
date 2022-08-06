@@ -248,29 +248,40 @@ const data = [
     //     source:"https://github.com/MehmetCakir1/Netflix-Survey-Form",
     //     tool:"css"
     // },
-    // {
-    //     id:17,
-    //     name:"IOS Calculator",
-    //     image:"iosCalculator",
-    //     url:"https://mehmetcakir1.github.io/calculatorWithJS/",
-    //     source:"https://github.com/MehmetCakir1/calculatorWithJS",
-    //     tool:"javascript"
-    // },
-    // {
-    //     id:16,
-    //     name:"To Do List",
-    //     image:"toDoList",
-    //     url:"https://mehmetcakir1.github.io/toDoListWithJavascript/",
-    //     source:"https://github.com/MehmetCakir1/toDoListWithJavascript",
-    //     tool:"javascript"
-    // },
+    {
+        id:17,
+        name:"IOS Calculator",
+        image:"iosCalculator",
+        imageurl:"https://github.com/ozcan-cetin/IOS-Calculator/raw/master/IOS%20Calculator.gif",
+        url:"https://ozcan-cetin.github.io/IOS-Calculator/",
+        source:"https://github.com/ozcan-cetin/IOS-Calculator",
+        tool:"javascript"
+    },
+    {
+        id:17,
+        name:"To D List",
+        image:"todolist",
+        imageurl:"https://github.com/ozcan-cetin/to_do_list_project/raw/master/todolist.gif",
+        url:"https://ozcan-cetin.github.io/to_do_list_project/",
+        source:"https://github.com/ozcan-cetin/to_do_list_project",
+        tool:"javascript"
+    },
+    {
+        id:16,
+        name:"CheckOut Form",
+        image:"Checkou Form",
+        imageurl:"https://github.com/ozcan-cetin/Checkout-Form/raw/master/Check%20Out%20Js.gif",
+        url:"https://ozcan-cetin.github.io/Checkout-Form/",
+        source:"https://github.com/ozcan-cetin/Checkout-Form",
+        tool:"javascript"
+    },
     {
         id:15,
         name:"Sass Project",
         image:"sass project.jpg",
         url:"https://sass-project-1-a5f152j9v-ozcan-cetin.vercel.app/",
         source:"https://github.com/ozcan-cetin/SASS-Project-1",
-        tool:"javascript"
+        tool:"css"
     },
     {
         id:14,
