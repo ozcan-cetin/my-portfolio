@@ -322,10 +322,10 @@ const data = [
     },
     {
         id:8,
-        name:"Preview Cards",
-        image:"previewCards",
-        url:"https://mehmetcakir1.github.io/Column-Preview-Card/",
-        source:"https://github.com/MehmetCakir1/Column-Preview-Card",
+        name:"Google Landing Page",
+        image:"google-clone.jpg",
+        url:"https://ozcan-cetin.github.io/Google-Landing-Page/",
+        source:"https://github.com/ozcan-cetin/Google-Landing-Page",
         tool:"css"
     },
     {
