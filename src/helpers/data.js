@@ -233,23 +233,24 @@ const data = [
     //     tool:"css"
     // },
     // {
-    //     id:19,
-    //     name:"Guess",
-    //     image:"guessTheNumber",
-    //     url:"https://mehmetcakir1.github.io/guessTheNumberWithJS/",
-    //     source:"https://github.com/MehmetCakir1/guessTheNumberWithJS",
-    //     tool:"javascript"
-    // },
-    // {
-    //     id:18,
-    //     name:"Netflix Survey",
-    //     image:"netflixSurveyForm",
-    //     url:"https://mehmetcakir1.github.io/Netflix-Survey-Form/",
-    //     source:"https://github.com/MehmetCakir1/Netflix-Survey-Form",
-    //     tool:"css"
-    // },
-    {
-        id:17,
+        //     id:18,
+        //     name:"Netflix Survey",
+        //     image:"netflixSurveyForm",
+        //     url:"https://mehmetcakir1.github.io/Netflix-Survey-Form/",
+        //     source:"https://github.com/MehmetCakir1/Netflix-Survey-Form",
+        //     tool:"css"
+        // },
+        {
+            id:19,
+            name:"Guess",
+            image:"guessTheNumber",
+            imageurl:"https://github.com/ozcan-cetin/guess_number/raw/master/Guess%20My%20Number.gif",
+            url:"https://ozcan-cetin.github.io/guess_number/",
+            source:"https://github.com/ozcan-cetin/guess_number",
+            tool:"javascript"
+        },
+        {
+        id:18,
         name:"IOS Calculator",
         image:"iosCalculator",
         imageurl:"https://github.com/ozcan-cetin/IOS-Calculator/raw/master/IOS%20Calculator.gif",
