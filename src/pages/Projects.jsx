@@ -7,11 +7,11 @@ const Projects = () => {
 //  console.log(projects);
 
 const handleProjects = (e)=>{
-  if(e.target.value=="all"){
+  if(e.target.value==="all"){
     setProjects(data)
   }else{
     setProjects(
-    data.filter((item)=>item.tool==e.target.value)
+    data.filter((item)=>item.tool===e.target.value)
   )
   }
 }
