@@ -28,11 +28,11 @@ const Contact = () => {
         </Link>
       </div>
       <div className=" text-light  d-flex justify-content-center align-items-center contactEmail p-4  ">
-      <Link to="mailto:cetin445@gmail.com" target="_blank">
+      <a href="mailto:cetin445@gmail.com" target="_blank">
         <span className="display-2 d-flex align-items-center justify-content-center ">
           <BsFillEnvelopeFill/>
         </span>
-        </Link>
+        </a>
 
       </div>
     </article>

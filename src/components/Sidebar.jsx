@@ -32,7 +32,7 @@ const Sidebar = () => {
       </div>
 
       <div className="icons email text-light fs-3 d-flex justify-content-between align-items-center">
-        <a href="cetin445@gmail.com" target="_blank">
+        <a href="mailto:cetin445@gmail.com" target="_blank">
           Email
         </a>
         <span className="display-5 d-flex align-items-center p-2">
