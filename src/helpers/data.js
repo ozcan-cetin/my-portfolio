@@ -1,5 +1,13 @@
 const data = [
    {
+      id:40,
+      name:"Tabs",
+      image:"tabs.gif",
+      url:"https://tabsproject.vercel.app/",
+      source:"https://github.com/ozcan-cetin/tabs",
+      tool:"react"
+  },
+   {
       id:39,
       name:"Our Menu",
       image:"our menu.gif",
