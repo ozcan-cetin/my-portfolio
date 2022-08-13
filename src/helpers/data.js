@@ -1,5 +1,13 @@
 const data = [
    {
+      id:41,
+      name:"Reviews Slider",
+      image:"reviews slider.jpg",
+      url:"https://reviews-slider-alpha.vercel.app/",
+      source:"https://github.com/ozcan-cetin/reviews-slider",
+      tool:"react"
+  },
+   {
       id:40,
       name:"Tabs",
       image:"tabs.gif",
