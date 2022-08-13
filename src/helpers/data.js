@@ -1,5 +1,13 @@
 const data = [
    {
+      id:42,
+      name:"Lorem Ipsum",
+      image:"lorem ipsum.gif",
+      url:"https://lorem-ipsum-five.vercel.app/",
+      source:"https://github.com/ozcan-cetin/lorem-psum",
+      tool:"react"
+  },
+   {
       id:41,
       name:"Reviews Slider",
       image:"reviews slider.jpg",
